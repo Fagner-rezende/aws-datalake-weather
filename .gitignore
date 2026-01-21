@@ -1,0 +1,6 @@
+# Ignorar arquivos temporários e de ambiente
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
