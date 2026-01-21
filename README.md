@@ -6,9 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Athena](https://img.shields.io/badge/Athena-SQL_Analytics-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<div align="center">
-  <img src="docs/architecture/architecture_diagram.png" alt="Diagrama da Arquitetura" width="700"/>
-</div>
+![Diagrama](docs/architecture/evidence_diagram.png)
 
 Este projeto é um **Data Lakehouse** completo e *serverless* construído na AWS. O pipeline realiza a ingestão de dados meteorológicos em tempo real via API, processa e refina as informações utilizando Python (Pandas) e disponibiliza os dados para Analytics via SQL (Athena), seguindo a **Arquitetura Medalhão**.
 
